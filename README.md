@@ -3,7 +3,8 @@
 ## Let's Get Rolling - Student Pre-Read
 Before this lesson, we recommend you go through
 
-## Learning Objectives
+## Notes
+[Notes](https://github.com/commit-live-students/spark-3/tree/master/notes)
 
 
 ## Agenda
